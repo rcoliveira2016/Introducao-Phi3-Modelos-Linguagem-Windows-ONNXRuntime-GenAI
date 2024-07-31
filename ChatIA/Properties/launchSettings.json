@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ChatIA (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ChatIA (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
