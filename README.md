@@ -11,7 +11,7 @@ Este repositório é baseado no tutorial da Microsoft Learn¹. O objetivo é cri
 
 ## Criar um aplicativo do WinUI em C#
 
-No Visual Studio, crie um novo projeto. Na caixa de diálogo Criar um projeto, defina o filtro de linguagem como "C#" e o filtro do tipo de projeto como "winui"; em seguida, selecione o modelo Aplicativo em branco, Empacotado (WinUI3 na Área de Trabalho). Nomeie o novo projeto como "GenAIExample".
+No Visual Studio, crie um novo projeto. Na caixa de diálogo Criar um projeto, defina o filtro de linguagem como "C#" e o filtro do tipo de projeto como "winui"; em seguida, selecione o modelo Aplicativo em branco, Empacotado (WinUI3 na Área de Trabalho.
 
 ## Adicionar referências ao pacote NuGet ONNX Runtime Generative AI
 
@@ -29,4 +29,4 @@ No Gerenciador de Soluções, clique com o botão direito do mouse no projeto e 
 (2) undefined. https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-onnx/tree/main/directml/directml-int4-awq-block-128.
 (3) Introdução ao Phi3 e a outros modelos de ... - learn.microsoft.com. https://learn.microsoft.com/pt-br/windows/ai/models/get-started-models-genai.
 (4) Tutorial do Windows Machine Learning para área de trabalho (C++). https://learn.microsoft.com/pt-br/windows/ai/windows-ml/get-started-desktop.
-(5) undefined. https://onnxruntime.ai/docs/.
+(5) onnxruntime docs. https://onnxruntime.ai/docs/.
